@@ -1,8 +1,10 @@
+!\[Urban Beauty Hub Banner](screenshots/Homepage.png)
+
+
+
 \# Urban Beauty Hub Project
 
 
-
-!\[Urban Beauty Hub Banner](screenshots/Homepage.png)
 
 
 
