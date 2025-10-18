@@ -2,11 +2,7 @@
 
 
 
-
-
 \# Urban Beauty Hub Project
-
-
 
 
 
@@ -52,27 +48,27 @@
 
 
 
-!\[Homepage](screenshots/Homepage.png)
+!\[Homepage](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/Homepage.png)
 
-!\[Services](screenshots/services.png)
+!\[Services](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/services.png)
 
-!\[Gallery](screenshots/Gallery.png)
+!\[Gallery](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/Gallery.png)
 
-!\[Booking](screenshots/BookingForm.png)
+!\[Booking](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/BookingForm.png)
 
-!\[BookingThankyou](screenshots/BookingThankyou.png)
+!\[BookingThankyou](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/BookingThankyou.png)
 
-!\[VerfyEMAIL](screenshots/VerfyEMAIL.png)
+!\[VerfyEMAIL](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/VerfyEMAIL.png)
 
-!\[AppointmentConfirmation](screenshots/AppointmentConfirmation.png)
+!\[AppointmentConfirmation](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/AppointmentConfirmation.png)
 
-!\[AdminEMailCONFIRMATION](screenshots/AdminEMailCONFIRMATION.png)
+!\[AdminEMailCONFIRMATION](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/AdminEMailCONFIRMATION.png)
 
-!\[DashBoardLogin](screenshots/DashBoardLogin.png)
+!\[DashBoardLogin](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/DashBoardLogin.png)
 
-!\[Dashboard](screenshots/Dashboard.png)
+!\[Dashboard](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/Dashboard.png)
 
-!\[BookingView](screenshots/BookingView.png)
+!\[BookingView](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/BookingView.png)
 
 
 
