@@ -1,4 +1,6 @@
-!\[Urban Beauty Hub Banner](screenshots/Homepage.png)
+!\[Urban Beauty Hub Banner](https://raw.githubusercontent.com/Cheecheez101/URBAN-BEUTY-HUB-PROJECT/main/screenshots/Homepage.png)
+
+
 
 
 
